@@ -349,7 +349,7 @@ strong {
   SITE HEADER              
 -----------------------------------------*/
 .site-header {
-  background-image: linear-gradient(to right, purple,cyan, blue);
+  background-image: linear-gradient(to right, white,purple, blue);
   padding-top: 12px;
   padding-bottom: 12px;
 }
@@ -529,6 +529,10 @@ strong {
   height: 70px;
   line-height: 70px;
   text-align: center;
+}
+
+p{
+  color: white;
 }
 
 .about-text-info {
@@ -1018,3 +1022,5 @@ strong {
     font-size: 20px;
   }
 }
+  
+  
